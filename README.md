@@ -7,15 +7,10 @@ This project is going to test whether English and Chinese news reports conform t
 
 
 ## Instructions
-To implement this work, you need to download and install Anaconda3. Here is the official link for Anaconda: [https://www.anaconda.com/products/individual-d](https://www.anaconda.com/download) <br>
-
-After installing Anaconda3, execute the following command block in the terminal. <br>
+### 1. Dependencies
+To implement this work, you need to execute the following command block in the terminal. <br>
 
 ```Bash
-# create a conda environment
-conda create -n zla_test python=3.11 ipython
-conda activate zla_test
-
 # install libraries for tokenization
 pip install spacy==3.7.2
 python -m spacy download en_core_web_sm
@@ -29,4 +24,5 @@ pip install seaborn==0.13.2
 pip install numpy==1.24.4
 pip install scipy==1.11.3
 ```
-
+### 2. Viewing and running the code
+After installing the required libraries, you can run  Jupyter Notebook to view and run the code.
