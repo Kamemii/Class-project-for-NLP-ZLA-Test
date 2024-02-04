@@ -7,9 +7,9 @@ This project is going to test whether English and Chinese news reports conform t
 
 
 ## Instructions
-To implement this work, you need to download and install Anaconda3. <br>
-Here is the official link for Anaconda: [https://www.anaconda.com/products/individual-d](https://www.anaconda.com/download) <br>
-After installing Anaconda3, please execute the following command block in the terminal. <br>
+To implement this work, you need to download and install Anaconda3. Here is the official link for Anaconda: [https://www.anaconda.com/products/individual-d](https://www.anaconda.com/download) <br>
+
+After installing Anaconda3, execute the following command block in the terminal. <br>
 
 ```Bash
 # create a conda environment
