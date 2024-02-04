@@ -1,12 +1,12 @@
 # Class-project-for-NLP-ZLA-Test
 
-### Introduction
+## Introduction
 This is a class project for 24 Spring NLP course in UPF.<br>
 Zipf’s Law of Abbreviation (ZLA) refers to a linguistic law that more frequently a word is used, shorter the word will be. <br>
 This project is going to test whether English and Chinese news reports conform to this law.
 
 
-### Instructions
+## Instructions
 To implement this work, you need to download and install Anaconda3. Here is the official link for Anaconda: [https://www.anaconda.com/products/individual-d](https://www.anaconda.com/download) <br>
 After installing Anaconda3, please execute the following command block in the terminal. <br>
 
